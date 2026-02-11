@@ -1,7 +1,7 @@
 body
 {
- background:#333;
- color:#351F39;
+ background:#f3f3f3;
+ color:#333;
  font-family:sans-serif;
  margin:0 auto;
 }
@@ -46,5 +46,6 @@ body
     backround-color:#4b88bb;
     display:block;
 }
+
 
 
