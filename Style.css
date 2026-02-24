@@ -11,7 +11,7 @@ body
     margin:40px auto 5px auto;
     height:120px;
     line-height:120px;
-    background:#B8CDE6;
+    background:red;
     color:#2E2E2E;
     display:flex;
     align-items:center;
@@ -48,6 +48,7 @@ body
     background-color:#7FA3D6;
     display:block;
 }
+
 
 
 
