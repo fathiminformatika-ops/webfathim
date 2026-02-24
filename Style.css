@@ -1,7 +1,7 @@
 body
 {
- background:#f3f3f3;
- color:#333;
+ background:#FAFAFA;
+ color:#2E2E2E;
  font-family:sans-serif;
  margin: 0;
 }
@@ -11,8 +11,8 @@ body
     margin:40px auto 5px auto;
     height:120px;
     line-height:120px;
-    background:#9AB7D3;
-    color:#FFF;
+    background:#2E2E2E;
+    color#2E2E2E;
     display:flex;
     align-items:center;
 }
@@ -22,7 +22,7 @@ body
 }
 
 .menu{
-    background-color:#417aa8;
+    background-color: #6B8EBF;
     height:50px;
     line-height:50px;
     position:relative;
@@ -45,9 +45,10 @@ body
 }
 
 .menu ul li a:hover {
-    background-color:#4b88bb;
+    background-color:#7FA3D6;
     display:block;
 }
+
 
 
 
