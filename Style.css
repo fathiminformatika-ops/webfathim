@@ -8,15 +8,17 @@ body
 
 .header{
     width:90%;
-    margin:auto;
+    margin:40px auto;
     height:120px;
     line-height:120px;
     background:#9AB7D3;
     color:#FFF;
+    display:flex;
+    align-items:center;
 }
 
 .jarak{
-     padding:0 2pc;
+     padding-left: 20px;
 }
 
 .menu{
@@ -46,6 +48,7 @@ body
     backround-color:#4b88bb;
     display:block;
 }
+
 
 
 
