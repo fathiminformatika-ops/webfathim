@@ -12,7 +12,7 @@ body
     height:120px;
     line-height:120px;
     background:#2E2E2E;
-    color#2E2E2E;
+    color:#2E2E2E;
     display:flex;
     align-items:center;
 }
@@ -48,6 +48,7 @@ body
     background-color:#7FA3D6;
     display:block;
 }
+
 
 
 
