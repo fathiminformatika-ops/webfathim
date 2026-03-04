@@ -1,7 +1,7 @@
 body
 {
  background:#FAFAFA;
- color:#2E2E2E;
+ color:#FFFFFF;
  font-family:sans-serif;
  margin: 0;
 }
@@ -47,6 +47,22 @@ body
 .menu ul li a:hover {
     background-color:#7FA3D6;
     display:block;
+}
+
+.content{
+    width:90%;
+    margin:auto;
+    height:420px;
+    padding:0.1px;
+    background:#fff;
+    color:#333;
+
+.border{
+    border:2px solid #4887b9;
+    margin-top:1pc;
+    padding-bottom:1pc;
+    padding-left:2pc;
+    padding-right:2pc;
 }
 
 
