@@ -84,6 +84,7 @@ body
 .undecor{
     text-decoration:none;
 }
+ 
 .footer{
      width:90%;
      margin:auto;
@@ -92,6 +93,15 @@ body
      background:#726A95;
      color:#FFFFFF;
      margin-bottom: 1pc;
+     width:90%;
+     margin:40px auto 5px auto;
+     height:120px;
+     line-height:120px;
+     background:#726A95;
+     color:#FFFFFF;
+     display:flex;
+     align-items:center;
+ 
 }
 
 
